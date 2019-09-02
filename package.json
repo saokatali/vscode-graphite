@@ -1,0 +1,21 @@
+{
+    "name": "graphite-theme",
+    "displayName": "graphite theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "graphite theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/graphite theme-color-theme.json"
+            }
+        ]
+    }
+}
